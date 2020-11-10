@@ -1,0 +1,94 @@
+.container-1 {
+    border: 0px solid black;
+    width: 100%;
+    margin: 0 auto;
+    text-align:left;
+    color: blue;
+    
+}
+.top-left {
+  position: absolute;
+  top: -10px;
+  left: 25px;
+  
+}
+
+  
+.flex-box-container-1{
+    display: flex;
+    border: 0px solid white;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+     
+}
+
+.flex-box-container-1 div {
+    display: flex;
+    padding: 10px;
+    border: 0px solid white;
+    align-items: center;
+}
+
+.container-2 {
+  border: 1px solid white;
+  width: 100%;
+  margin: 0 auto;
+  text-align:center;
+  color: black;
+}
+
+.flex-container {
+  display: flex;
+  background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  background-color: white;
+  color: black;
+  width: 1000px;
+  margin: 18px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 16px;
+}
+
+
+.flex-container0 > div {
+  color: wheat;
+  width: 1000px;
+  margin: 18px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 16px;
+}
+
+.container-44 {
+  border: 1px solid white;
+  width: 100%;
+  margin: 0 auto;
+  text-align:center;
+  color: black;
+}
+.flex-container {
+  display: flex;
+  background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  background-color: white;
+  color: black;
+  width: 1000px;
+  margin: 18px;
+  text-align: center;
+  line-height: 20px;
+  font-size: 16px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
